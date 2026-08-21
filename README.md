@@ -10,7 +10,7 @@ Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem f
 
 - 📡 **Processamento de Sinais de Radar & Modulações:**
   - Projeto de formas de onda e modulação em frequência não linear (**F-NLFM** - *Fractional / Folded Non-Linear Frequency Modulation*).
-  - Modulação e processamento espacial/espectral (**FOSM** - *Frequency Offset / Spatial Modulation*).
+  - Modelagem e processamento por osciladores fractais (**FOSM** - *Fractal Oscillation Source Model*).
   - Compressão de pulso, redução de lóbulos secundários e supressão de ecos de terreno (*clutter*).
   - Radares Meteorológicos Doppler (Banda S), antenas, radomes e simulação numérica eletromagnética (FDTD).
 
