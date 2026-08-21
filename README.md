@@ -11,8 +11,9 @@ Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem f
 - 📡 **Processamento de Sinais de Radar & Modulações:**
   - Projeto de formas de onda e modulação não linear fractal (**F-NLFM** - *Fractal Non-Linear Frequency Modulation*).
   - Modelagem e processamento por fontes de oscilação fractal (**FOSM** - *Fractal Oscillation Source Model*).
-  - Compressão de pulso, redução de lóbulos secundários e supressão de ecos de terreno (*clutter*).
-  - Radares Meteorológicos Doppler (Banda S), antenas, radomes e simulação numérica eletromagnética (FDTD).
+  - Predição e mitigação de ecos de terreno (*ground clutter returns*) via óptica geométrica e dados topográficos (SRTM).
+  - Compressão de pulso, redução de lóbulos secundários e supressão de ecos indesejados.
+  - Radares Meteorológicos Doppler (Banda S), antenas, radomes e simulação eletromagnética (FDTD).
 
 - 🌐 **Sistemas Telemétricos & IoT:**
   - Redes automáticas telemétricas de superfície e Plataformas de Coleta de Dados (PCDs).
@@ -34,9 +35,21 @@ Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem f
 
 ### 📚 Produção Científica & Artigos de Destaque
 
-- *Um breve tratado sobre a aproximação paraxial* — Revista Brasileira de Ensino de Física (RBEF).
-- *Diretrizes para Redes Automáticas e Telemétricas de Superfície* — Revista Brasileira de Recursos Hídricos (RBRH).
-- *The FDTD Simulating the Attenuation of a Plan Electromagnetic Wave Crossing of a Radome in the Weather Radar* — International Radar Symposium (IRS).
+- **Electromagnetic Wave Propagation and Geometric Optics: A Framework for Predicting Radar Ground Clutter Returns**  
+  *Moisés F. de Souza, Cesar A. Dartora, Raissa M. G. de Souza, Horácio Tertuliano Filho*  
+  *Journal of Microwaves, Optoelectronics and Electromagnetic Applications (JMOeA - SBMO/SBMag)*, 2026.
+
+- **Um breve tratado sobre a aproximação paraxial**  
+  *Moisés F. de Souza, Reinaldo Silveira, K.Z. Nóbrega, C.A. Dartora*  
+  *Revista Brasileira de Ensino de Física (RBEF)*, 2014.
+
+- **Diretrizes para Redes Automáticas e Telemétricas de Superfície**  
+  *Selma R. Maggiotto, Nelson L. Dias, Sandro Vissotto, Celso L. Prevedello, Ernani L. Nascimento, Leocádio Grodzki, Moisés F. de Souza*  
+  *Revista Brasileira de Recursos Hídricos (RBRH)*, 2007.
+
+- **The FDTD Simulating the Attenuation of a Plan Electromagnetic Wave Crossing of a Radome in the Weather Radar**  
+  *E. A. Saraiva, M. Fernandez Souza, H. Tertuliano Filho, W. Artuzi Junior, C. A. Benetti, C.A. Dartora*  
+  *International Radar Symposium (IRS)*.
 
 ---
 
