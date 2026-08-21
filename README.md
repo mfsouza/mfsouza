@@ -2,15 +2,22 @@
 
 Engenheiro Eletricista, **Doutorando e Mestre em Engenharia Elétrica** pela Universidade Federal do Paraná (**UFPR**), e Engenheiro no **Instituto Tecnológico SIMEPAR**.
 
-Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem física, eletromagnetismo aplicado e redes de aquisição e telemetria de dados ambientais.
+Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem física, eletromagnetismo aplicado, processamento de sinais de radar e redes de aquisição/telemetria.
 
 ---
 
 ### 🔬 Áreas de Pesquisa e Expertise
 
-- 📡 **Eletromagnetismo Aplicado & Telecomunicações:** Radares Meteorológicos (Doppler/S-Band), simulação eletromagnética no domínio do tempo (FDTD), propagação de ondas, antenas, radomes e óptica geométrica/paraxial.
-- 🌐 **Sistemas Telemétricos & IoT:** Redes automáticas telemétricas de superfície, Plataformas de Coleta de Dados (PCDs), sensoriamento remoto e estações hidrometeorológicas.
-- ⚡ **Instrumentação & Automação:** Protocolos industriais (Modbus RTU/ASCII), instrumentação ambiental/meteorológica e aquisição de dados em alta e baixa frequência.
+- 📡 **Processamento de Sinais de Radar & Modulações:**
+  - Projeto de formas de onda e modulação em frequência não linear (**F-NLFM** - *Fractional / Folded Non-Linear Frequency Modulation*).
+  - Modulação e processamento espacial/espectral (**FOSM** - *Frequency Offset / Spatial Modulation*).
+  - Compressão de pulso, redução de lóbulos secundários e supressão de ecos de terreno (*clutter*).
+  - Radares Meteorológicos Doppler (Banda S), antenas, radomes e simulação numérica eletromagnética (FDTD).
+
+- 🌐 **Sistemas Telemétricos & IoT:**
+  - Redes automáticas telemétricas de superfície e Plataformas de Coleta de Dados (PCDs).
+  - Sensoriamento remoto, estações hidrometeorológicas e protocolos industriais (Modbus RTU/ASCII).
+  - Aquisição de dados ambientais em alta (10 Hz) e baixa frequência.
 
 ---
 
