@@ -1,4 +1,4 @@
-﻿# Olá, sou o Moisés Fernandes de Souza 👋
+# Olá, sou o Moisés Fernandes de Souza 👋
 
 Engenheiro Eletricista, **Doutorando e Mestre em Engenharia Elétrica** pela Universidade Federal do Paraná (**UFPR**), e Engenheiro no **Instituto Tecnológico SIMEPAR**.
 
@@ -55,5 +55,9 @@ Atuo em pesquisa, desenvolvimento e engenharia aplicada, com foco em modelagem f
 
 ### 📬 Conecte-se comigo
 
-- 📄 **Currículo Lattes:** [lattes.cnpq.br/9677744041160123](https://lattes.cnpq.br/9677744041160123)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0931--1417-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0931-1417)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=curriculum&logoColor=white)](http://lattes.cnpq.br/9677744041160123)
+
+- 🆔 **ORCID:** [0000-0002-0931-1417](https://orcid.org/0000-0002-0931-1417)
+- 📄 **Currículo Lattes:** [lattes.cnpq.br/9677744041160123](http://lattes.cnpq.br/9677744041160123)
 - ✉️ **E-mail:** [moises.souza.br@gmail.com](mailto:moises.souza.br@gmail.com)
