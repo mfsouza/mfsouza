@@ -55,9 +55,11 @@ Atuo em pesquisa científica e desenvolvimento, com foco em modelagem física, e
 
 ### 📬 Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-souza-br/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0931--1417-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0931-1417)
 [![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=curriculum&logoColor=white)](http://lattes.cnpq.br/9677744041160123)
 
+- 💼 **LinkedIn:** [linkedin.com/in/moises-souza-br](https://www.linkedin.com/in/moises-souza-br/)
 - 🆔 **ORCID:** [0000-0002-0931-1417](https://orcid.org/0000-0002-0931-1417)
 - 📄 **Currículo Lattes:** [lattes.cnpq.br/9677744041160123](http://lattes.cnpq.br/9677744041160123)
 - ✉️ **E-mail:** [moises.souza.br@gmail.com](mailto:moises.souza.br@gmail.com)
