@@ -33,7 +33,11 @@ Atuo em pesquisa científica e desenvolvimento, com foco em modelagem física, e
 
 ---
 
-### 📚 Produção Científica & Artigos de Destaque
+### 📚 Produção Científica & Trabalhos Acadêmicos
+
+- 🎓 **[Dissertação de Mestrado] Estudo de Ecos de Terreno em Sistemas de Radar Meteorológico a Partir da Óptica Geométrica** ([GitHub & PDF](https://github.com/mfsouza/MSc-Radar-Ground-Clutter))  
+  *Moises Fernandes de Souza (Orientador: Prof. Dr. César Augusto Dartora, Coorientador: Dr. Reinaldo B. Silveira)*  
+  *Universidade Federal do Paraná (PPGEE / UFPR), 2015.*
 
 - **Electromagnetic Wave Propagation and Geometric Optics: A Framework for Predicting Radar Ground Clutter Returns**  
   *Moisés F. de Souza, Cesar A. Dartora, Raissa M. G. de Souza, Horácio Tertuliano Filho*  
