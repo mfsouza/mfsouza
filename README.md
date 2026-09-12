@@ -33,25 +33,40 @@ Atuo em pesquisa científica e desenvolvimento, com foco em modelagem física, e
 
 ---
 
-### 📚 Produção Científica & Trabalhos Acadêmicos
+### 📚 Produção Científica, Tese & Repositórios Principais
+
+- 🎓 **[Tese de Doutorado] Modulações Não-Lineares em Frequência com Base Fractal (F-NLFM): Síntese Analítica, Validação Metrológica e Aplicações em Radares de Estado Sólido** ([GitHub & PDF](https://github.com/mfsouza/Tese_Doutorado_UFPR))  
+  *Moisés Fernandes de Souza (Orientador: Prof. Dr. Horácio Tertuliano Filho, Coorientador: Dr. Reinaldo B. Silveira)*  
+  *Universidade Federal do Paraná (PPGEE / UFPR), 2026.*
+
+- 📡 **[IEEE TAES / Radar] Single-Pulse Blind Zone Recovery in Solid-State Radar via Tail-Matched Filtering of NLFMs** ([GitHub & Code](https://github.com/mfsouza/IEEE_Single_Pulse_Blind_Zone_Recovery_Paper))  
+  *Moisés Fernandes de Souza, Horácio Tertuliano Filho, Reinaldo B. Silveira, Raissa M. G. de Souza*  
+  *Recuperação da zona cega proximal de radares de estado sólido sem sub-pulsos intercalados, com ganho de até +18,24 dB.*
+
+- ⚡ **[F-NLFM Core & RF-SDR Testbed]** ([F-NLFM](https://github.com/mfsouza/F-NLFM-) | [F-NLFM-RF-SDR](https://github.com/mfsouza/F-NLFM-RF-SDR))  
+  *Algoritmos de síntese FOSM/SPA em Python (Numba/CUDA) e implementação experimental em Rádio Definido por Software (PlutoSky SDR / AD9361 em 5,8 GHz).*
 
 - 🎓 **[Dissertação de Mestrado] Estudo de Ecos de Terreno em Sistemas de Radar Meteorológico a Partir da Óptica Geométrica** ([GitHub & PDF](https://github.com/mfsouza/MSc-Radar-Ground-Clutter))  
-  *Moises Fernandes de Souza (Orientador: Prof. Dr. César Augusto Dartora, Coorientador: Dr. Reinaldo B. Silveira)*  
+  *Moisés Fernandes de Souza (Orientador: Prof. Dr. César Augusto Dartora, Coorientador: Dr. Reinaldo B. Silveira)*  
   *Universidade Federal do Paraná (PPGEE / UFPR), 2015.*
 
-- **Electromagnetic Wave Propagation and Geometric Optics: A Framework for Predicting Radar Ground Clutter Returns**  
+- 📄 **Electromagnetic Wave Propagation and Geometric Optics: A Framework for Predicting Radar Ground Clutter Returns**  
   *Moisés F. de Souza, Cesar A. Dartora, Raissa M. G. de Souza, Horácio Tertuliano Filho*  
   *Journal of Microwaves, Optoelectronics and Electromagnetic Applications (JMOeA - SBMO/SBMag)*, 2026.
 
-- **Um breve tratado sobre a aproximação paraxial**  
+- 📄 **Metrological Evaluation of Pulse Compression Performance in Audio-Band via 24-Bit Acoustic Benchmarking**  
+  *Moisés F. de Souza, Horácio Tertuliano Filho, Reinaldo B. Silveira*  
+  *IEEE Transactions on Instrumentation and Measurement (IEEE TIM)*, 2026.
+
+- 📄 **Um breve tratado sobre a aproximação paraxial**  
   *Moisés F. de Souza, Reinaldo Silveira, K.Z. Nóbrega, C.A. Dartora*  
   *Revista Brasileira de Ensino de Física (RBEF)*, 2014.
 
-- **Diretrizes para Redes Automáticas e Telemétricas de Superfície**  
+- 📄 **Diretrizes para Redes Automáticas e Telemétricas de Superfície**  
   *Selma R. Maggiotto, Nelson L. Dias, Sandro Vissotto, Celso L. Prevedello, Ernani L. Nascimento, Leocádio Grodzki, Moisés F. de Souza*  
   *Revista Brasileira de Recursos Hídricos (RBRH)*, 2007.
 
-- **The FDTD Simulating the Attenuation of a Plan Electromagnetic Wave Crossing of a Radome in the Weather Radar**  
+- 📄 **The FDTD Simulating the Attenuation of a Plan Electromagnetic Wave Crossing of a Radome in the Weather Radar**  
   *E. A. Saraiva, M. Fernandez Souza, H. Tertuliano Filho, W. Artuzi Junior, C. A. Benetti, C.A. Dartora*  
   *International Radar Symposium (IRS)*.
 
