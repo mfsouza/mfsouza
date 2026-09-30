@@ -35,17 +35,6 @@ Atuo em pesquisa científica e desenvolvimento, com foco em modelagem física, e
 
 ### 📚 Produção Científica, Tese & Repositórios Principais
 
-- 🎓 **[Tese de Doutorado] Modulações Não-Lineares em Frequência com Base Fractal (F-NLFM): Síntese Analítica, Validação Metrológica e Aplicações em Radares de Estado Sólido** ([GitHub & PDF](https://github.com/mfsouza/Tese_Doutorado_UFPR))  
-  *Moisés Fernandes de Souza (Orientador: Prof. Dr. Horácio Tertuliano Filho, Coorientador: Dr. Reinaldo B. Silveira)*  
-  *Universidade Federal do Paraná (PPGEE / UFPR), 2026.*
-
-- 📡 **[IEEE TAES / Radar] Single-Pulse Blind Zone Recovery in Solid-State Radar via Tail-Matched Filtering of NLFMs** ([GitHub & Code](https://github.com/mfsouza/IEEE_Single_Pulse_Blind_Zone_Recovery_Paper))  
-  *Moisés Fernandes de Souza, Horácio Tertuliano Filho, Reinaldo B. Silveira, Raissa M. G. de Souza*  
-  *Recuperação da zona cega proximal de radares de estado sólido sem sub-pulsos intercalados, com ganho de até +18,24 dB.*
-
-- ⚡ **[F-NLFM Core & RF-SDR Testbed]** ([F-NLFM](https://github.com/mfsouza/F-NLFM-) | [F-NLFM-RF-SDR](https://github.com/mfsouza/F-NLFM-RF-SDR))  
-  *Algoritmos de síntese FOSM/SPA em Python (Numba/CUDA) e implementação experimental em Rádio Definido por Software (PlutoSky SDR / AD9361 em 5,8 GHz).*
-
 - 🎓 **[Dissertação de Mestrado] Estudo de Ecos de Terreno em Sistemas de Radar Meteorológico a Partir da Óptica Geométrica** ([GitHub & PDF](https://github.com/mfsouza/MSc-Radar-Ground-Clutter))  
   *Moisés Fernandes de Souza (Orientador: Prof. Dr. César Augusto Dartora, Coorientador: Dr. Reinaldo B. Silveira)*  
   *Universidade Federal do Paraná (PPGEE / UFPR), 2015.*
